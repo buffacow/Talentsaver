@@ -5,7 +5,12 @@ It was created for situations like during the raid, when you have to switch your
 It was initially created for my ViroUI pack but due to popular demand I released it independently.
 
 # Showcase
+
+Listing my custom saved talent templates
 <img src="https://i.imgur.com/xf2IxW5.png"></img>
+
+Loading an custom saved talent template
+<img src="https://i.imgur.com/2aHFLDa.png"></img>
 
 [![Talentsaver 1.4 Preview on Youtube](http://i.imgur.com/aNjG5bV.png)](https://www.youtube.com/watch?v=8au61bMst10 "Talentsaver 1.4 Preview on Youtube")
 
