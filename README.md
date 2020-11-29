@@ -1,7 +1,6 @@
-# Talentsaver
-With this World of Warcraft AddOn you can save your current Talent Specs and if you have to reset to switch to another spec you can easily let the AddOn load the saved template.
+# Talentsaver v1.42 (for Vanilla WoW 1.12.1)
+With Talentsaver you can save your current talent spec, and load the saved talent spec with an simple command.
 
-It was created for situations like during the raid, when you have to switch your spec for one Boss only so you don't have that much time and you don't want to look up your saved talent specs so you don't make mistakes while speccing in a hurry.
 It was initially created for my ViroUI pack but due to popular demand I released it independently.
 
 # Showcase
@@ -14,11 +13,7 @@ Loading an custom saved talent template
 
 [![Talentsaver 1.4 Preview on Youtube](http://i.imgur.com/aNjG5bV.png)](https://www.youtube.com/watch?v=8au61bMst10 "Talentsaver 1.4 Preview on Youtube")
 
-# Download
-<a href="https://github.com/MOUZU/Talentsaver/releases"><b>Download latest Release</b></a>
-
 # Discussion
-<a href="http://www.wow-one.com/forum/topic/82768-talentsaver/"><b>Feenix Forum Thread</b></a><br \>
 <a href="https://forum.nostalrius.org/viewtopic.php?f=63&t=15429"><b>Nostalrius Forum Thread</b></a>
 
 # Chat Commands
