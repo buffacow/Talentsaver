@@ -26,6 +26,9 @@ It was initially created for my ViroUI pack but due to popular demand I released
 - /talents stop - will stop if a template is being loaded right now
 
 # Changelog
+1.42 (28. November 2020)
+- included the missing dependency libraries, Talentsaver now works as a standalone addon
+
 1.41 (3. July 2015)
  - fixed the DoubleCheck process (delayed it)
  - the estimated loading value will now be increased by 2s to make it more accurate
